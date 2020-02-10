@@ -2,9 +2,15 @@
 
 body {
   font-family: 'Inconsolata', monospace;  
+  background-image: url("https://raw.githubusercontent.com/corgi912/final/master/graybackground.jp2");
+  background-repeat: no-repeat;
+  background-position: center;
+  background size: cover;
 }
 
 h1 {
   font-style: italic;
   font-size: 50px;
+  color: #0F0600;
+  border: 5px dotted white;
 }
